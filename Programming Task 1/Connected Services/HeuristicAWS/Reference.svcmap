@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="9ad81413-14c8-4599-ace2-68d29025efcc" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>true</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://albpt2-475462822.us-east-1.elb.amazonaws.com/WcfsHeuristicALG/Service.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Service.xsd" MetadataType="Schema" ID="289d9785-b4c9-4e9e-a667-9541b69eec85" SourceId="1" SourceUrl="http://albpt2-475462822.us-east-1.elb.amazonaws.com/WcfsHeuristicALG/Service.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service.wsdl" MetadataType="Wsdl" ID="4a5c214f-2cec-4814-99e5-9fe6909e3943" SourceId="1" SourceUrl="http://albpt2-475462822.us-east-1.elb.amazonaws.com/WcfsHeuristicALG/Service.svc?wsdl" />
+    <MetadataFile FileName="Service.disco" MetadataType="Disco" ID="81909b88-46df-4169-8aba-37b225816467" SourceId="1" SourceUrl="http://albpt2-475462822.us-east-1.elb.amazonaws.com/WcfsHeuristicALG/Service.svc?disco" />
+    <MetadataFile FileName="Service1.xsd" MetadataType="Schema" ID="241a361b-786c-41ee-9bb2-51956c4b4c72" SourceId="1" SourceUrl="http://albpt2-475462822.us-east-1.elb.amazonaws.com/WcfsHeuristicALG/Service.svc?xsd=xsd1" />
+    <MetadataFile FileName="Service2.xsd" MetadataType="Schema" ID="d775c273-5249-4016-9dba-f05c8c484291" SourceId="1" SourceUrl="http://albpt2-475462822.us-east-1.elb.amazonaws.com/WcfsHeuristicALG/Service.svc?xsd=xsd0" />
+    <MetadataFile FileName="Service3.xsd" MetadataType="Schema" ID="713c1f0b-3efa-4a8a-b30c-7429f40274b9" SourceId="1" SourceUrl="http://albpt2-475462822.us-east-1.elb.amazonaws.com/WcfsHeuristicALG/Service.svc?xsd=xsd3" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
